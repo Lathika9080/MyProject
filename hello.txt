@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello GitHub! 
+=======
+Hello GitHub!
+This is my first Git project.
+>>>>>>> 0f9660499f97d7ac8f1a57c0e8393b8e966ca875
